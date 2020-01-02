@@ -1,0 +1,2 @@
+Ads/AppLovin/Plugins/iOS/libAppLovinSdk.a filter=lfs diff=lfs merge=lfs -text
+Ads/Facebook/AudienceNetwork/Plugins/iOS/libs/FBAudienceNetwork.framework/FBAudienceNetwork filter=lfs diff=lfs merge=lfs -text
